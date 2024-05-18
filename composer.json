@@ -1,0 +1,13 @@
+{
+    "name": "jael/web-zakat-fitrah",
+    "description": "Website to use for Zakat Fitrah",
+    "authors": [
+        {
+            "name": "Muhamad Septian Jaelani",
+            "email": "mseptianjaelani@gmail.com"
+        }
+    ],
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
